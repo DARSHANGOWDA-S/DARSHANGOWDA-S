@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Darshan S
 
-<!--
-**DARSHANGOWDA-S/DARSHANGOWDA-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A passionate Java Full Stack Developer, currently pursuing my B.E. in Computer Science and Engineering at Bahubali College of Engineering with a CGPA of 8.4.  
+💼 Trained at JSpiders, Bangalore, and currently working on Java + Spring Boot + ReactJS projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 👀 I'm interested in Web Designing, Java Full Stack Development, and MERN Stack Development.
+- 🌱 Currently learning advanced full-stack development using Java, Spring Boot, ReactJS, and MySQL.
+- 💻 Completed internships in AI Data Quality Analysis, Python Development, and Web Development.
+- 🤝 Looking to collaborate on backend systems, frontend UIs, and scalable database solutions.
+- 🏆 Achievements include academic excellence, sports leadership, and state-level volleyball representation.
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 Portfolio: [portfolio-darshan.vercel.app](https://github.com/DARSHANGOWDA-S/DARSHANGOWDA-S/edit/main/README.md))  
+- 📧 Email: [darshangowda4618@gmail.com]
+- 🔗 LinkedIn: [linkedin.com/in/darshan-s-777332337](https://www.linkedin.com/in/darshan-s-777332337/)  
+
+
+
