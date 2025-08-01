@@ -19,7 +19,7 @@
 
 - 🌐 Portfolio: [portfolio-darshan.vercel.app](https://github.com/DARSHANGOWDA-S/DARSHANGOWDA-S/edit/main/README.md))  
 - 📧 Email: [darshangowda4618@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/darshan-s-777332337](https://www.linkedin.com/in/darshan-s-777332337/)  
+- 🔗 LinkedIn: [linkedin.com/in/darshan-s-777332337](https://www.linkedin.com/in/darshan-s-777332337/) . 
 
 
 
