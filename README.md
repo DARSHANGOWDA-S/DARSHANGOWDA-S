@@ -37,33 +37,33 @@
 
 ---
 
-### 🛠️ Languages Used
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+ ### 🛠️ Java Full Stack Developer Toolkit
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
- 🛠️ Languages and Tools
+---
 
-<h3>🛠️ Languages and Tools</h3>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="40"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="40"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="ReactJS" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot" width="40"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="40"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40"/>
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40"/>
-</p>
+---
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 
 
 ---
