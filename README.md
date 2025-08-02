@@ -1,6 +1,6 @@
 
 
-                                                           👋 Hello, I'm DARSHAN S
+                                                      👋 Hello, I'm DARSHAN S
 
 🎓 A passionate Java Full Stack Developer,Bachelors of Engineering Graduate. in Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
 💼 Trained at **JSpiders, Bangalore**, and currently working on **Java + Spring Boot + ReactJS** projects.
