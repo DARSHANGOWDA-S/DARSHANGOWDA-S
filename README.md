@@ -1,4 +1,9 @@
-                                      👋 Hello, I'm DARSHAN S
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Mission_Impossible_logo.svg" alt="Mission Impossible" width="400"/>
+</p>
+
+<h2 align="center">Hi 👋, I'm Subhash</h2>
+                                    👋 Hello, I'm DARSHAN S
 
 🎓 A passionate Java Full Stack Developer,Bachelors of Engineering Graduate. in Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
 💼 Trained at **JSpiders, Bangalore**, and currently working on **Java + Spring Boot + ReactJS** projects.
