@@ -81,6 +81,7 @@
 
 🔗 Projects 
 - **Corrrently working on the deep fake detection and alerting system using federated deep learning**
+-**Advance text analytics using Natural language processing**
 - **Intruder Detection System using Machine Learning**
 - **Road Lane Detection with OpenCV**
 - **Weather App using OpenWeatherMap API**
