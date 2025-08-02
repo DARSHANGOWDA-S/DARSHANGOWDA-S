@@ -21,16 +21,16 @@
 📫 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="www.linkedin.com/in/darshans2003" target="_blank">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/darshans2003" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/darshangowda_s_?igsh=YWVyczNhYmNqN29w)" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
   </a>
-  <a href="https://portfolio-darshan.vercel.app" target="_blank">
+  <a href="www.linkedin.com/in/darshans2003" target="_blank">
     <img src="https://img.icons8.com/color/48/internet--v1.png" alt="Portfolio" width="40"/>
   </a>
 </p>
@@ -77,7 +77,7 @@
 
 ---
 
-🔗 Projects Mentioned in Resume
+🔗 Projects 
 - **Corrrently working on the deep fake detection and alerting system using federated deep learning**
 - **Intruder Detection System using Machine Learning**
 - **Road Lane Detection with OpenCV**
