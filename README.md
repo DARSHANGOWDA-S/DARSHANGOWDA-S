@@ -28,9 +28,10 @@
   <a href="www.linkedin.com/in/darshans2003" target="_blank">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40"/>
   </a>
-  <a href="www.linkedin.com/in/darshans2003" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
-  </a>
+<a href="https://www.linkedin.com/in/darshans2003" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
+</a>
+
   <a href="https://www.instagram.com/darshangowda_s_?igsh=YWVyczNhYmNqN29w" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
  <a href="https://www.linkedin.com/in/darshans2003" target="_blank">
