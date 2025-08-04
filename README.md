@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=darshangowda&label=Profile%20views&color=0e75b6&style=flat)
 
 
                                                       👋 Hello, I'm DARSHAN S
