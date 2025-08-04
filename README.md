@@ -33,10 +33,10 @@
   </a>
   <a href="https://www.instagram.com/darshangowda_s_?igsh=YWVyczNhYmNqN29w" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40"/>
-  </a>
-  <a href="www.linkedin.com/in/darshans2003/" target="_blank">
-    <img src="https://img.icons8.com/color/48/internet--v1.png" alt="Portfolio" width="40"/>
-  </a>
+ <a href="https://www.linkedin.com/in/darshans2003/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn" />
+</a>
+
 </p>
 
 ---
