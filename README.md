@@ -1,4 +1,5 @@
-![Profile views](https://komarev.com/ghpvc/?username=darshangowda&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://img.shields.io/badge/Profile%20views-0728-blue)
+
 
 
                                                       👋 Hello, I'm DARSHAN S
