@@ -71,10 +71,15 @@
 
  📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshangowda&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshangowda&layout=compact&theme=radical" width="48%" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DarshanGowda&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanGowda&layout=compact&theme=radical" width="400"/>
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshangowda&theme=radical" width="60%" />
