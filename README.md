@@ -75,14 +75,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DARSHANGOWDA-S&show_icons=true&theme=radical" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHANGOWDA-S&layout=compact&theme=radical" width="400"/>
+## 🚀 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;Full+Stack+Developer+%7C+AI+Enthusiast;Passionate+about+Coding+%26+Learning" alt="Typing SVG" />
+</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DARSHANGOWDA-S&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=F75C7E&icon_color=F8D866&text_color=FFFFFF&bg_color=0D1117" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHANGOWDA-S&layout=compact&theme=radical&hide_border=true&title_color=F75C7E&text_color=FFFFFF&bg_color=0D1117" width="400"/>
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANGOWDA-S&theme=radical" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANGOWDA-S&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F8D866" width="60%" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DARSHANGOWDA-S&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
+</p>
+
 
 ---
 
