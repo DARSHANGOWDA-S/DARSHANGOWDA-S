@@ -97,10 +97,27 @@
 
 ---
 
-🔗 Projects 
-- **Corrrently working on the deep fake detection using federated deep learning**
--**Advance text analytics using Natural language processing**
-- **Intruder Detection System using Machine Learning**
-- **Road Lane Detection with OpenCV**
-- **Weather App using OpenWeatherMap API**
-- **Vehicare Service Web Application**
+## 💻 Projects
+
+<p align="center">
+🌟 *A showcase of some exciting projects I’ve been working on…*
+</p>
+
+- 🛡 **Deep Fake Detection using Federated Deep Learning**  
+  Leveraging distributed AI to detect manipulated media while preserving data privacy.
+
+- 📊 **Advanced Text Analytics using Natural Language Processing (NLP)**  
+  Extracting insights from large volumes of unstructured text using cutting-edge NLP techniques.
+
+- 🚨 **Intruder Detection System using Machine Learning**  
+  Intelligent system to identify and alert against unauthorized access.
+
+- 🛣 **Road Lane Detection with OpenCV**  
+  Real-time lane detection system for driver assistance using computer vision.
+
+- 🌦 **Weather App using OpenWeatherMap API**  
+  A sleek app providing live weather updates and forecasts.
+
+- 🚗 **Vehicle Service Web Application**  
+  Full-stack web platform for booking, tracking, and managing vehicle services.
+
