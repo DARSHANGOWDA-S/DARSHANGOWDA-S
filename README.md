@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-0728-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
 </p>
+<p align="center">
+  👋 Hello, I'm <b>DARSHAN S</b>
+</p>
 
-                                              👋 Hello, I'm DARSHAN S
 
 🎓 A passionate **Java Full Stack Developer**,**Bachelors of Engineering** Graduate in **Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
 💼 Trained at **JSpiders, Bangalore**, and currently working on **Java + Spring Boot + ReactJS** projects.
