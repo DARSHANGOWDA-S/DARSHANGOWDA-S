@@ -2,8 +2,10 @@
   <img src="https://img.shields.io/badge/Profile%20Views-0728-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
 </p>
 <p align="center">
-  👋 Hello, I'm <b>DARSHAN S</b>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
+  <b>Hello, I'm DARSHAN S</b>
 </p>
+
 
 
 🎓 A passionate **Java Full Stack Developer**,**Bachelors of Engineering** Graduate in **Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
