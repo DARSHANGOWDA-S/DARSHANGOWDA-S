@@ -16,12 +16,12 @@
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👀+I+love+Web+Designing+%26+Full+Stack+Development;🌱+Currently+Learning+Java+%7C+Spring+Boot+%7C+ReactJS;💻+Completed+3+Internships+in+AI%2C+Python%2C+Web+Dev;🤝+Looking+to+Collaborate+on+Awesome+Projects;🏆+Branch+Topper+%26+State+Level+Athlete" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+Darshan+S;💻+Currently+Pursuing+Java+Full+Stack+Development;🌱+Learning+Spring+Boot%2C+ReactJS%2C+and+MySQL;🏆+Branch+Topper+%26+State+Level+Athlete" />
 </p>
 
 <!-- Bullet Points -->
 - 👀 **Interests:** Web Designing, Java Full Stack Development, MERN Stack Development  
-- 🌱 **Currently Learning:** Advanced full-stack development with **Java**, **Spring Boot**, **ReactJS**, and **MySQL**  
+- 🌱 **Currently Pursuing:** **Java Full Stack Development** with **Spring Boot**, **ReactJS**, and **MySQL**  
 - 💻 **Internships Completed In:**  
   - AI Data Quality Analysis 🧠  
   - Python Development 🐍  
@@ -31,8 +31,6 @@
   - 🥇 Branch Topper *(Academic Excellence)*  
   - 🏐 State-Level Volleyball Player & VTU Kabaddi Team Captain  
   - ⚽ Sports Vice President in College 🎓  
-
-
 ---
 
 📫 Connect with Me
