@@ -68,12 +68,9 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
-
+## 🚀 GitHub Stats & Achievements
 <!-- 🌊 Wavy Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=150&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-## 🚀 GitHub Stats & Achievements
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub" alt="Typing SVG" />
 </p>
