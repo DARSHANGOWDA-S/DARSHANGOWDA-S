@@ -104,6 +104,10 @@
 </p>
 
 ### 🔬 Artificial Intelligence & Machine Learning
+
+- 🧠 **Brain Stroke Detection using Federated Deep Learning**  
+  Leveraging distributed AI to detect early signs of brain stroke while ensuring
+
 - 🛡 **Deep Fake Detection using Federated Deep Learning**  
   Leveraging distributed AI to detect manipulated media while preserving data privacy.
 
