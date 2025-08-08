@@ -96,9 +96,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANGOWDA-S&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF6EC7&currStreakLabel=FFD700" width="60%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF6EC7&currStreakLabel=FFD700" width="60%" />
-</p>
+
 <!-- 🌊 Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer" width="100%"/>
 
