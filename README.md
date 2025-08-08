@@ -1,4 +1,5 @@
-![Profile Views](https://img.shields.io/badge/Profile%20views-0728-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0728-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
@@ -84,11 +85,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANGOWDA-S&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF6EC7&currStreakLabel=FFD700" width="60%" />
-</p>
-
-<!-- 🏆 Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DARSHANGOWDA-S&theme=radical&no-frame=true&row=1&column=6" width="90%"/>
 </p>
 
 <!-- 🌊 Bottom Wave -->
