@@ -5,24 +5,33 @@
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
   <b>Hello, I'm DARSHAN S</b>
 </p>
-
-
+---
 
 🎓 A passionate **Java Full Stack Developer**,**Bachelors of Engineering** Graduate in **Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
 💼 Trained at **JSpiders, Bangalore**, and currently working on **Java + Spring Boot + ReactJS** projects.
 
 ---
 
-🚀 About Me
+## 🚀 About Me  
 
-- 👀 I'm interested in **Web Designing**, **Java Full Stack Development**, and **MERN Stack Development**
-- 🌱 Currently learning advanced full-stack development using **Java, Spring Boot, ReactJS, and MySQL**
-- 💻 Completed internships in **AI Data Quality Analysis**, **Python Development**, and **Web Development**
-- 🤝 Looking to collaborate on **backend systems**, **frontend UIs**, and **scalable database solutions**
-- 🏆 Achievements include:
-  - 🥇 Branch topper (academic excellence)
-  - 🏐 State-level **volleyball** & VTU **kabaddi** team captain
-  - ⚽ Sports **Vice President** in college
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👀+I+love+Web+Designing+%26+Full+Stack+Development;🌱+Currently+Learning+Java+%7C+Spring+Boot+%7C+ReactJS;💻+Completed+3+Internships+in+AI%2C+Python%2C+Web+Dev;🤝+Looking+to+Collaborate+on+Awesome+Projects;🏆+Branch+Topper+%26+State+Level+Athlete" />
+</p>
+
+<!-- Bullet Points -->
+- 👀 **Interests:** Web Designing, Java Full Stack Development, MERN Stack Development  
+- 🌱 **Currently Learning:** Advanced full-stack development with **Java**, **Spring Boot**, **ReactJS**, and **MySQL**  
+- 💻 **Internships Completed In:**  
+  - AI Data Quality Analysis 🧠  
+  - Python Development 🐍  
+  - Web Development 🌐  
+- 🤝 **Collaboration Goals:** Backend systems, Frontend UIs, and Scalable Database Solutions  
+- 🏆 **Achievements:**  
+  - 🥇 Branch Topper *(Academic Excellence)*  
+  - 🏐 State-Level Volleyball Player & VTU Kabaddi Team Captain  
+  - ⚽ Sports Vice President in College 🎓  
+
 
 ---
 
@@ -78,18 +87,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub" alt="Typing SVG" />
 </p>
-
+----
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DARSHANGOWDA-S&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FF6EC7&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_radius=15" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHANGOWDA-S&layout=compact&theme=radical&hide_border=true&title_color=FF6EC7&text_color=FFFFFF&bg_color=0D1117&border_radius=15" width="400"/>
-
+---
 </div>
-
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANGOWDA-S&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FF6EC7&currStreakLabel=FFD700" width="60%" />
 </p>
-
+---
 <!-- 🌊 Bottom Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=120&section=footer" width="100%"/>
 
