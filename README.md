@@ -30,7 +30,7 @@
 - 🏆 **Achievements:**  
   - 🥇 Branch Topper *(Academic Excellence)*  
   - 🏐 State-Level Volleyball Player & VTU Kabaddi Team Captain  
-  - ⚽ Sports Vice President in College 🎓  
+  - ⚽ Sports President in College 🎓  
 ---
 
 📫 Connect with Me
