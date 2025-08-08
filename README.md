@@ -100,9 +100,10 @@
 ## 💻 Projects
 
 <p align="center">
-🌟 *A showcase of some exciting projects I’ve been working on…*
+  A showcase of my key academic, personal, and professional projects 🚀
 </p>
 
+### 🔬 Artificial Intelligence & Machine Learning
 - 🛡 **Deep Fake Detection using Federated Deep Learning**  
   Leveraging distributed AI to detect manipulated media while preserving data privacy.
 
@@ -115,9 +116,31 @@
 - 🛣 **Road Lane Detection with OpenCV**  
   Real-time lane detection system for driver assistance using computer vision.
 
+---
+
+### 🌐 Web & Mobile Applications
 - 🌦 **Weather App using OpenWeatherMap API**  
   A sleek app providing live weather updates and forecasts.
 
 - 🚗 **Vehicle Service Web Application**  
   Full-stack web platform for booking, tracking, and managing vehicle services.
+
+- 💼 **LinkedIn Clone** *(Spring Boot + Java)*  
+  A professional networking platform clone featuring authentication, posts, and connections.
+
+---
+
+### 🔒 Security & Detection Systems
+- 🖼 **Deepfake Detection Tool** *(GitHub project)*  
+  Machine learning model for detecting image and video manipulations.
+
+- 🔔 **Intruder Detection & Alerting System** *(GitHub project)*  
+  Alerts users in real time when unauthorized movements are detected.
+
+---
+
+### 🏆 Other Notable Projects
+- 📈 **CGPA Calculator** — Simple Python tool to calculate CGPA efficiently.  
+- 📝 **DigiCard** — A Flutter-based digital visiting card app.  
+- 🎯 **Quizzler App** — Fun and interactive quiz app built with Flutter.
 
