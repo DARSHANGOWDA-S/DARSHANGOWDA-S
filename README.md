@@ -75,14 +75,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DarshanGowda&show_icons=true&theme=radical" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanGowda&layout=compact&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DARSHANGOWDA-S&show_icons=true&theme=radical" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARSHANGOWDA-S&layout=compact&theme=radical" width="400"/>
 
 </div>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshangowda&theme=radical" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARSHANGOWDA-S&theme=radical" width="60%" />
 </p>
 
 ---
