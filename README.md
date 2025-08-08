@@ -145,6 +145,6 @@
 
 ### 🏆 Other Notable Projects
 - 📈 **CGPA Calculator** — Simple Python tool to calculate CGPA efficiently.  
-- 📝 **DigiCard** — A Flutter-based digital visiting card app.  
-- 🎯 **Quizzler App** — Fun and interactive quiz app built with Flutter.
+ 
+
 
