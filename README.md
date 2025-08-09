@@ -4,8 +4,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+DARSHAN+S;💻+Currently+Pursuing+Java+Full+Stack+Development;🌱+Learning+Spring+Boot%2C+ReactJS%2C+and+MySQL;🏆+Branch+Topper+%26+State+Level+Athlete" />
 </p>
----
 
+---
 🎓 A passionate **Java Full Stack Developer**,**Bachelors of Engineering** Graduate in **Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
 💼 Trained at **JSpiders, Bangalore**, and currently working on **Java + Spring Boot + ReactJS** projects.
 
