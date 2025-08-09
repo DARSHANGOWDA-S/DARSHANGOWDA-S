@@ -14,7 +14,7 @@
 
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+DARSHAN+S;💻+Currently+Pursuing+Java+Full+Stack+Development;🌱+Learning+Spring+Boot%2C+ReactJS%2C+and+MySQL;%26+State+Level+Athlete" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+DARSHAN+S;💻+Currently+Pursuing+Java+Full+Stack+Development;🌱+Learning+Spring+Boot%2C+ReactJS%2C+and+MySQL;Statelevel+Vollyball+selection+Player+%26+State+Level+Athlete" />
 </p>
 
 <!-- Bullet Points -->
