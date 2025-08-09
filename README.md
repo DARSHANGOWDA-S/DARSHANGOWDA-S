@@ -2,8 +2,7 @@
   <img src="https://img.shields.io/badge/Profile%20Views-0728-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+DARSHAN+S+Thanks+for+visiting+my+profile+it+means+a+lot+see+about+me+below; />
-</p>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=👋+Hello!+I'm+DARSHAN+S;💻+Currently+Pursuing+Java+Full+Stack+Development;🌱+Learning+Spring+Boot%2C+ReactJS%2C+and+MySQL;%26+State+Level+Athlete" />
 
 ---
 🎓 A passionate **Java Full Stack Developer**,**Bachelors of Engineering** Graduate in **Computer Science and Engineering** at **Bahubali College of Engineering** with a CGPA of **8.4**.  
